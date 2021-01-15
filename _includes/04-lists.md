@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
